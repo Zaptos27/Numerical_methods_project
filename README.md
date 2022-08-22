@@ -7,3 +7,7 @@ The chosen project is Stokes flow (Incompressible flow of Newtonian fluids). <br
 where **u** is the velocity of the fluid, ∇p is the gradient of the pressure, and μ is the dynamic viscocity (https://en.wikipedia.org/wiki/Stokes_flow#Incompressible_flow_of_Newtonian_fluids).
 
 https://www.youtube.com/watch?v=CAZ8kTQ49c8
+
+$$ a = 2 $$
+
+ok
