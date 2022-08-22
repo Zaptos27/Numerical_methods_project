@@ -8,6 +8,6 @@ where **u** is the velocity of the fluid, ∇p is the gradient of the pressure, 
 
 https://www.youtube.com/watch?v=CAZ8kTQ49c8
 
-$$ a = 2 $$
+$$ a^2 = 2 $$
 
 ok
