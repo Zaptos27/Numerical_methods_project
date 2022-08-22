@@ -7,12 +7,8 @@ $$ \mu \nabla^2 \mathbf{u} = \nabla p $$
 
 $$ \nabla \cdot \mathbf{u} = 0 $$
 
-μ∇<sup>2</sup> **u** = ∇p <br>
-∇⋅**u** = 0, <br>
 where **u** is the velocity of the fluid, ∇p is the gradient of the pressure, and μ is the dynamic viscocity (https://en.wikipedia.org/wiki/Stokes_flow#Incompressible_flow_of_Newtonian_fluids).
 
 https://www.youtube.com/watch?v=CAZ8kTQ49c8
 
-$$a^2 = 2$$
 
-ok
